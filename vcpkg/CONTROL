@@ -1,4 +1,0 @@
-Source: ros-dashing-rmw-implementation
-Version: 0.7.1
-Description: The decision which ROS middleware implementation should be used for C++.
-Build-Depends:
